@@ -53,7 +53,9 @@ Page object
 В классе описываем локаторы:
 
 LOCATOR_YANDEX_SEARCH_FIELD — локатор поисковой строки
+
 LOCATOR_YANDEX_SEARCH_BUTTON — локатор кнопки “Найти”
+
 LOCATOR_YANDEX_NAVIGATION_BAR — локатор бара навигации (Картинки, Видео и т.д.)
 
 Создаем класс SearchHelper, наследуемся от BasePage.
